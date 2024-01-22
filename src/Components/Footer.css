@@ -1,0 +1,20 @@
+/* .foot{
+  height: 170px;
+  background-color: #727070;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  font-size: 120px;
+  font-weight: bold;
+  margin-top: auto;
+} */
+.foot {
+    height: 170px;
+    background-color: #08baf0;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    font-size: 120px;
+    font-weight: bold;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
